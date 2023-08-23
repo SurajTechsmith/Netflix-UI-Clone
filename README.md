@@ -23,8 +23,7 @@ Follow these steps to run the project locally:
 1. Clone this repository: `git clone https://github.com/SurajTechsmith/Netflix-UI-Clone.git`
 2. Navigate to the project directory: `cd Netflix-UI-Clone`
 3. Install dependencies: `npm install`
-4. Create a `.env` file in the project root with your [The Movie Database API](https://www.themoviedb.org/documentation/api) API key: `REACT_APP_API_KEY=your_api_key_here`
-5. Start the development server: `npm start`
+4. Start the development server: `npm start`
 
 The app will open in your browser at `http://localhost:3000`.
 
@@ -33,6 +32,6 @@ The app will open in your browser at `http://localhost:3000`.
 
 - React for building the UI components.
 - The Movie Database API for fetching movie data.
-- CSS for styling and responsiveness.
+- CSS for styling.
 
 
